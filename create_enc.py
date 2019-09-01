@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 import dlib
-!pip install face_recognition
 import face_recognition
-!pip install imutils
 from imutils import paths
-!unzip My_face_dataset.zip
 
 import cv2
 import pickle
