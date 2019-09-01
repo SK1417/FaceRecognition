@@ -2,6 +2,8 @@
 
 Disclaimer: Referenece and credit to: https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
 
+(Download the dataset from the same link)
+
 The model uses the face_recognition wrapper package located in dlib. 
 You can install dlib by:
 
